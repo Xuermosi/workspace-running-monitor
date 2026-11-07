@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Running Sessions",
+    "description": "Shows a dot beside Settings while a session is running, and lists those sessions by workspace."
+  }
+}

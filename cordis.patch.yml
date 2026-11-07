@@ -1,0 +1,3 @@
+- insert:
+    - id: workspace-running-monitor
+      name: '@local/workspace-running-monitor'
